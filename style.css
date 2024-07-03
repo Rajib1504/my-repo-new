@@ -8,3 +8,7 @@ p{
 .import{
     background-color: grey;
 }
+img{
+    height: 100px;
+    width: 200px;
+}
